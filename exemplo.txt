@@ -1,5 +1,5 @@
 Linha de teste da atividade.
 
-Linha de teste alterada.
+Linha de teste alterada, com novas funcionalidades.
 
 Linha de teste finalizada.
